@@ -15,7 +15,7 @@ body {
     text-align: center;
 }
 
-.card img {
+.card .hotel_logo {
     width: 100px;
     border-radius: 50%;
     margin-bottom: 15px;
